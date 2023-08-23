@@ -1,2 +1,2 @@
 My first readme.
-making cahnges to this file
+making changes to this file
